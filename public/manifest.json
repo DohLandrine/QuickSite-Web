@@ -1,0 +1,20 @@
+{
+  "name": "QuickSite",
+  "short_name": "QuickSite",
+  "theme_color": "#FF9644",
+  "background_color": "#FFFDF1",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
